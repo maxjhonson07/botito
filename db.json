@@ -1,0 +1,11 @@
+{
+  "configuration": {
+    "telegram": {
+      "chatsIds": [
+        "1010",
+        "1010"
+      ]
+    }
+  },
+  "regularExpression": []
+}

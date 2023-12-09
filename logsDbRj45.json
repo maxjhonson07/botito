@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "date": "2023-12-08T23:23:32.916Z",
+      "info": {}
+    },
+    {
+      "date": "2023-12-08T23:38:03.756Z",
+      "info": {
+        "message": "API should be type number",
+        "level": "error",
+        "service": "user-service"
+      }
+    },
+    {
+      "date": "2023-12-08T23:38:31.411Z",
+      "info": {
+        "message": "Your current Telegram configuration: {}",
+        "level": "info",
+        "service": "user-service"
+      }
+    },
+    {
+      "date": "2023-12-08T23:38:44.529Z",
+      "info": {
+        "message": "",
+        "level": "info",
+        "service": "user-service"
+      }
+    },
+    {
+      "date": "2023-12-08T23:39:02.793Z",
+      "info": {
+        "message": "[ChatIds]: 1 added to the chats ids list; ",
+        "level": "info",
+        "service": "user-service"
+      }
+    },
+    {
+      "date": "2023-12-08T23:39:13.743Z",
+      "info": {
+        "message": "Your current Telegram configuration: {\"chatsIds\":[\"1010\"]}",
+        "level": "info",
+        "service": "user-service"
+      }
+    },
+    {
+      "date": "2023-12-08T23:43:28.969Z",
+      "info": {
+        "message": "[ChatIds]: 1 added to the chats ids list; ",
+        "level": "info",
+        "service": "user-service"
+      }
+    },
+    {
+      "date": "2023-12-08T23:43:31.999Z",
+      "info": {
+        "message": "Your Telegram account is not connected. Please connect to Telegram using the command => botito telegram connect",
+        "level": "error",
+        "service": "user-service"
+      }
+    }
+  ]
+}
